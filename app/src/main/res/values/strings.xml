@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppForTest</string>
+    <string name="email_label">email</string>
+    <string name="email_hint">Введите email</string>
+    <string name="save">Сохранить</string>
+    <string name="valid_email">Корректный адрес</string>
+    <string name="invalid_email">Не корректный адрес</string>
+</resources>
